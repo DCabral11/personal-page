@@ -1,0 +1,59 @@
+.header-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: black;
+    text-decoration: none;
+    margin-top: 0.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile > img {
+    overflow: clip;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+
+#hello-text {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #BB2525;
+}
+
+#description-txt {
+    font-family: 'Helvetica Neue', sans-serif;
+    line-height: 24px;
+    font-size: 17px;
+    text-justify: inter-word;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.experience {
+    margin-top: 5rem;
+}
+
+.company-title {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #FF6969;
+}
+
+.company > #description-txt {
+    font-family: 'Helvetica Neue', sans-serif;
+    line-height: 24px;
+    font-size: 17px;
+    text-justify: inter-word;
+    text-align: justify;
+    margin-top: 1rem;
+}
